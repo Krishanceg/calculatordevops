@@ -9,5 +9,6 @@ public class App {
         System.out.println("DevOps Calculator Application");
         System.out.println("10 + 5 = " + calculator.add(10, 5));
         System.out.println("10 - 5 = " + calculator.subtract(10, 5));
+        System.out.println("10 * 5 = " + calculator.multiply(10, 5));
     }
 }
